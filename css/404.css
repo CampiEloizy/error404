@@ -1,0 +1,32 @@
+
+body {
+    font-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-color: black;
+}
+
+.text-cont {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    color: white;
+}
+
+.img-cont {
+    justify-content: space-around;
+    align-items: center;
+    height: 250%;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+
+.text-cont-2 {
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 150;
+    font-size: 10px;
+    color: white;
+    word-wrap: break-word;
+    margin-bottom: 70px;
+}
